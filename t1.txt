@@ -1,4 +1,2 @@
 hello stc , all the best
-edit
-edit
-get set edit go
+edit.get set go
